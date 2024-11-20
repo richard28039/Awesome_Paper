@@ -1,1 +1,1 @@
-# CCU_Master_thesis_survey
+# CCUCS_Master_thesis_survey

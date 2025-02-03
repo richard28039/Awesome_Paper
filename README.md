@@ -1,10 +1,5 @@
 # CCUCS_Master_thesis_survey
 
-# Good Writing
-| Title  | link |
-| -- | -- |
-| Agent基础知识学习，看这一篇就够了！ | https://blog.csdn.net/h1453586413/article/details/142737985?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522840768b0908cf5f02946a58a53d5b5ca%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=840768b0908cf5f02946a58a53d5b5ca&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~sobaiduend~default-1-142737985-null-null.nonecase&utm_term=agent%E5%AD%A6%E4%B9%A0&spm=1018.2226.3001.4450 |
-
 # Thesis - Agent
 | Paper | importance | conference | year | link |
 | -- | -- | -- | -- | -- |
@@ -19,6 +14,7 @@
 | PaSa: An LLM Agent for Comprehensive Academic Paper Search | 3 | arxiv | 2025 | https://arxiv.org/abs/2501.10120 |
 | HuatuoGPT-o1, Towards Medical Complex Reasoning
 with LLMs | 6 | arxiv | 2025 | https://arxiv.org/pdf/2412.18925 |
+| V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs | 4 | CVPR | 2024 | https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_V_Guided_Visual_Search_as_a_Core_Mechanism_in_Multimodal_CVPR_2024_paper.pdf |
 
 # Lab Meeting
 | Paper | importance | conference | year | link |
